@@ -1,0 +1,2 @@
+# isguc
+iş planı yapıyoruz
